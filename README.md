@@ -1,4 +1,16 @@
-This project was bootstrapped with [Create Eth App](https://github.com/paulrberg/create-eth-app).
+## Uniswap Clone with ERC20 Token Creation
+
+## 🌐 Decentralized Cryptocurrency Exchange React App with Metamask Pairing 🔄 Swap ERC20 Tokens and More! 🚀
+
+Built with ReactJS, useDapp, and Tailwind CSS, this project mirrors the functionality of Uniswap, a decentralized exchange on the Ethereum blockchain. Harness the power of Cranq for smart contract creation, enabling seamless ERC20 token generation and live data fetching. Empower users to pair with Metamask, effortlessly swap tokens, and explore the dynamic world of decentralized finance. 🚀
+
+## Key Features:
+
+🌈 Metamask Integration
+🔄 Token Swapping Functionality
+💼 ERC20 Token Creation
+📊 Live Smart Contract Data Fetching
+🛠️ Powered by ReactJS, useDapp, and Tailwind CSS
 
 ## Project Structure
 
