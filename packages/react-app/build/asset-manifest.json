@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ec7e0c55.css",
+    "main.js": "./static/js/main.92759497.js",
+    "static/media/ethereumLogo.png": "./static/media/ethereumLogo.a1b9f99bffeed787d44d.png",
+    "static/media/uniswapLogo.png": "./static/media/uniswapLogo.b1166848987e808176c9.png",
+    "index.html": "./index.html",
+    "static/media/chevron-down.svg": "./static/media/chevron-down.371c0b7e0fc58ab73972e8cca2f33a34.svg",
+    "main.ec7e0c55.css.map": "./static/css/main.ec7e0c55.css.map",
+    "main.92759497.js.map": "./static/js/main.92759497.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec7e0c55.css",
+    "static/js/main.92759497.js"
+  ]
+}
